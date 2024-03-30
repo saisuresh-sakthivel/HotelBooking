@@ -20,3 +20,8 @@ cd app/hotel/
 npm install
 npm start
 ```
+4. Visit http://localhost:3000/. This is the hompage and it looks like below.
+   <img width="1378" alt="image" src="https://github.com/saisuresh-sakthivel/HotelBooking/assets/12746677/521fffc8-49c4-46fa-ad99-e8815f7b7f83">
+
+5. Click on the search icon or click on any of the destination image to get the list of hotels. 
+
